@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Scholll</h1>
-<h3 align="center">A passionate frontend / mobile developer from Germany. Software Engineering Student at Code University of Applied Science</h3>
+<h3 align="center">A passionate frontend / mobile developer from Germany. 
+<br> Software Engineering Student at Code University of Applied Science</h3>
 
 
 - 🔭 I’m currently working on [JASE: Mobile Game](https://github.com/jonathanscholl/Jetlaggame.git)
