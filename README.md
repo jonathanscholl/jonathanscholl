@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [JASE: Mobile Game](https://github.com/jonathanscholl/Jetlaggame.git)
 
-- 🌱 I’m currently learning **ReactJS, React Native, NextJS**
+- 🌱 I’m currently learning **React, React Native, Next.js**
 
 - 📫 How to reach me **jonathan.scholl@code.berlin**
 
